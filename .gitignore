@@ -1,0 +1,10 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python byte-code
+__pycache__/
+*.py[cod]
+
+# Disk images (Genellikle büyük oldukları için yüklenmez, ancak örnek olarak kalabilir)
+# sample.img
